@@ -1,3 +1,4 @@
+![Cover](https://github.com/SDOTech/SDOTech/blob/main/img/solb.png)
 - 👋 Hi, I’m @SDOTech
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning smartcontract with solidy
